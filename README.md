@@ -1,4 +1,4 @@
-# React Typescript Bolerplate using Vite
+# React Typescript Boilerplate using Vite
 
 frontend boilerplate project using react.
 
